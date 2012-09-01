@@ -15,7 +15,7 @@ input{height:20px; border:1px solid #333; background: #222; color:#fff; padding:
   font-family: inconsolata, cousine, monospace; font-size: 12px}
 input:hover, input:focus{background: #333;}
 #libload{width:98%; margin:10px 0;}
-
+#Generator img{margin: 0px 15px 0 4px; }
 .ui-spinner button{background: #111; color:#555; width: 20px; height:22px; font-family: arial; margin-right:1px;
   border:0; position:relative; top:1px;}
 tr{border-top: 2px solid #222;}

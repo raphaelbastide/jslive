@@ -1,6 +1,6 @@
 #  jsfx
 
-Fork for musical purposes. [see original project](https://github.com/egonelbre/jsfx).
+Fork for musical purposes. [See original project](https://github.com/egonelbre/jsfx).
 
 --
 
